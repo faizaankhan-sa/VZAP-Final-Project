@@ -1,0 +1,11 @@
+
+*.class
+*.war
+*.class
+target/classes/.netbeans_automatic_build
+*.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+*.war
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+*.lst
+*.dpf
